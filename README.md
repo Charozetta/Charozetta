@@ -23,5 +23,5 @@
 
 ## Connect with me 
 - LinkedIn: <https://www.linkedin.com/in/juliakozina/>
-- Email: <juliakozina@gmail.com>
+- Email: <iuliia.kozina@u.nus.edu>
 - Telegram: @JuliaKozina
