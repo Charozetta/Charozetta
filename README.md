@@ -15,8 +15,13 @@
 - Working as both internal and external consultant
 
 
+## Focus areas
+- Operations transformation • decision logic • value architecture
+- Forecasting • optimization • predictive maintenance • NLP for documentation
+- From “data → decisions → processes → outcomes” (end-to-end)
 
-## Connect with me
+
+## Connect with me 
 - LinkedIn: <https://www.linkedin.com/in/juliakozina/>
-- Email: <your email or “via LinkedIn”>
-- Telegram: <@JuliaKozina>
+- Email: <juliakozina@gmail.com>
+- Telegram: @JuliaKozina
