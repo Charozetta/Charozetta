@@ -2,7 +2,7 @@
 
 * 🚂 I'm currently working for DB Engineering & Consulting as a Senior Logistics Consulting
 * 💼 I help companies to transform their business from operations to strategy
-* 👩‍🎓 I got my MBA degree from [NUS](https://nus.edu.sg/) and now doing my McS in Data Analytics and Applied Math at [HSE University](https://www.hse.ru/en/)
+* 👩‍🎓 I got my MBA degree from [NUS](https://nus.edu.sg/) and now doing my M.Sc. in Data Analytics and Applied Math at [HSE University](https://www.hse.ru/en/)
 
 ---
 ## What I do
