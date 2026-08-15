@@ -1,27 +1,42 @@
 # Hi, I'm Julia 👋
 
-* 🚂 I'm currently working for DB Engineering & Consulting as a Senior Logistics Consulting
-* 💼 I help companies to transform their business from operations to strategy
-* 👩‍🎓 I got my MBA degree from [NUS](https://nus.edu.sg/) and now doing my M.Sc. in Data Analytics and Applied Math at [HSE University](https://www.hse.ru/en/)
+I work with complex systems, data and knowledge to make difficult problems easier to understand and decisions easier to make.
+
+My background spans transport, infrastructure, strategy and analytics. More recently, my work has moved toward knowledge representation, applied AI and decision-support systems.
+
+🎓 MBA, National University of Singapore  
+🎓 M.Sc. in Data Analytics & Applied Mathematics, HSE University
 
 ---
-## What I do
-- Building data-driven operating models and analytics products for transport & infrastructure
-- Exploring applied ML/NLP (incl. NER for operational & regulatory documentation)
-- Conducting root-cause analysis of performance gaps (plans vs reality)
-- Providing data-driven decision support for operations and strategy
-- Forecasting, capacity and process optimisation
-- Translating complex data problems into actionable business solutions
-- Working as both internal and external consultant
+
+## What I work on
+
+- Structuring complex and fragmented knowledge
+- Knowledge representation and knowledge-based systems
+- Decision-support systems for expert domains
+- Applied NLP and information extraction
+- Connecting domain expertise, data and analytical methods
+- Turning research ideas into working prototypes
+
+---
+
+## Current interests
+
+- Knowledge Representation & Reasoning
+- Knowledge Engineering
+- Ontologies & Knowledge Graphs
+- NLP / LLMs for expert knowledge
+- Provenance, traceability and trustworthy AI
+- Human decision-making supported by data and knowledge
+
+---
+
+## Domains I've worked with
+
+Transport • Railways • Infrastructure • Operations • Healthcare knowledge
 
 
-## Focus areas
-- Operations transformation • decision logic • value architecture
-- Forecasting • optimization • predictive maintenance • NLP for documentation
-- From “data → decisions → processes → outcomes” (end-to-end)
+## Connect
 
-
-## Connect with me 
 - LinkedIn: <https://www.linkedin.com/in/juliakozina/>
-- Email: <iuliia.kozina@u.nus.edu>
 - Telegram: @JuliaKozina
