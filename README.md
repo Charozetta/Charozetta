@@ -40,3 +40,4 @@ Transport • Railways • Infrastructure • Operations • Healthcare knowledg
 
 - LinkedIn: <https://www.linkedin.com/in/juliakozina/>
 - Telegram: @JuliaKozina
+- Email: contact@gnodus.ai
